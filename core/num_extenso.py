@@ -126,7 +126,7 @@ def tercia(num):
                 return resultado
 
 
-def main(num):
+def convert_value(num):
     sinal = ''
     if num.find('-') != -1:
         sinal = 'menos '
@@ -147,8 +147,3 @@ def main(num):
             elif i == 6:
                 result = result + res
     return sinal + result
-
-
-numero = input('Digite um numero: ')
-valor = main(numero)
-print(valor)
