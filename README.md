@@ -15,7 +15,7 @@
 docker-compose build
 docker-compose up
 ```
-* Abrir no navegador http://<ip_virtualbox>:8000/{aqui_o_numero_desejado}/
+* Abrir no navegador http://localhost:8000/{aqui_o_numero_desejado}/
 ## Usando Virtualenv
 * Clonar o projeto - git clone https://github.com/anthonylopez15/numero_extenso.git
 ```
