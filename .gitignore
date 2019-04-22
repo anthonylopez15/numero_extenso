@@ -9,7 +9,7 @@ __pycache__/
 media/
 env
 db.sqlite3
-
+staticfiles
 # C extensions
 *.so
 
